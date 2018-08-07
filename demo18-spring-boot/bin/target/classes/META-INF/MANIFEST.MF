@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Demo 18
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: User
+Implementation-Vendor-Id: ir.kuroshfarsimadan.spring.boot
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Demo 18
+Created-By: Maven Integration for Eclipse
+
